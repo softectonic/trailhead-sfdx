@@ -1,0 +1,1247 @@
+[
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516984677987,
+            "changeTime": 1516984677987,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516984677985,
+            "changeTime": 1516984677985,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1517004346009,
+            "changeTime": 1517004346009,
+            "contentHash": "8b92530e51e1a0c914754202c5c72d69956edcea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1517005231219,
+            "changeTime": 1517005231219,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1517002834370,
+            "changeTime": 1517002834370,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1517002834370,
+            "changeTime": 1517002834370,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 545,
+            "modifiedTime": 1517005360037,
+            "changeTime": 1517005360037,
+            "contentHash": "05d613d8e60b6cec58377f396c97479402c41e5d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1517002834367,
+            "changeTime": 1517002834367,
+            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 112,
+            "modifiedTime": 1517002920966,
+            "changeTime": 1517002920966,
+            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1517002834370,
+            "changeTime": 1517002834370,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1517002834369,
+            "changeTime": 1517002834369,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 395,
+            "modifiedTime": 1517005404734,
+            "changeTime": 1517005404734,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1517002834368,
+            "changeTime": 1517002834368,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1517002834369,
+            "changeTime": 1517002834369,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1517002722821,
+            "changeTime": 1517002722821,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1517002722821,
+            "changeTime": 1517002722821,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1517002774241,
+            "changeTime": 1517002774241,
+            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1517002722819,
+            "changeTime": 1517002722819,
+            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 171,
+            "modifiedTime": 1517002799392,
+            "changeTime": 1517002799392,
+            "contentHash": "451fd0d05cb763c543025f2a90dcb679337ed0c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1517002722821,
+            "changeTime": 1517002722821,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1517002722821,
+            "changeTime": 1517002722821,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1517002722819,
+            "changeTime": 1517002722819,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1517002722820,
+            "changeTime": 1517002722820,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1517002722820,
+            "changeTime": 1517002722820,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1517001388308,
+            "changeTime": 1517001388308,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1517001388307,
+            "changeTime": 1517001388307,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 207,
+            "modifiedTime": 1517004597161,
+            "changeTime": 1517004597161,
+            "contentHash": "37e98d89648bc66e9fbd19c28468ec4a1ac8cbb7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1517001388305,
+            "changeTime": 1517001388305,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 133,
+            "modifiedTime": 1517001484414,
+            "changeTime": 1517001484414,
+            "contentHash": "897a218365eeb2e0671cc64370e8e3f74a2c78dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1517001388308,
+            "changeTime": 1517001388308,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1517001388307,
+            "changeTime": 1517001388307,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1517001388306,
+            "changeTime": 1517001388306,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1517001388306,
+            "changeTime": 1517001388306,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1517001388307,
+            "changeTime": 1517001388307,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1517004447262,
+            "changeTime": 1517004447262,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1517004447262,
+            "changeTime": 1517004447262,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 335,
+            "modifiedTime": 1517005489594,
+            "changeTime": 1517005489594,
+            "contentHash": "0164cf330bc6ce6565d86f3835dc3e421e13bc12",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1517004447259,
+            "changeTime": 1517004447259,
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 46,
+            "modifiedTime": 1517004539515,
+            "changeTime": 1517004539515,
+            "contentHash": "724275a72e68b7812ce001b8cb0d8870eeacd1fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1517004447262,
+            "changeTime": 1517004447262,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1517004447261,
+            "changeTime": 1517004447261,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 833,
+            "modifiedTime": 1517005545651,
+            "changeTime": 1517005545651,
+            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1517004447260,
+            "changeTime": 1517004447260,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1517004447261,
+            "changeTime": 1517004447261,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1517005231219,
+            "changeTime": 1517005231219,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1517005261793,
+            "changeTime": 1517005261793,
+            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1517005231219,
+            "changeTime": 1517005231219,
+            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1517000784783,
+            "changeTime": 1517000784783,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 293,
+            "modifiedTime": 1517001150209,
+            "changeTime": 1517001150209,
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1517000784783,
+            "changeTime": 1517000784783,
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1517000331084,
+            "changeTime": 1517000331084,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1517000331083,
+            "changeTime": 1517000331083,
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1517000331083,
+            "changeTime": 1517000331083,
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1517000331084,
+            "changeTime": 1517000331084,
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1517000331084,
+            "changeTime": 1517000331084,
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517000331084,
+            "changeTime": 1517000331084,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517000331084,
+            "changeTime": 1517000331084,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517000331084,
+            "changeTime": 1517000331084,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1517000331084,
+            "changeTime": 1517000331084,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517000331084,
+            "changeTime": 1517000331084,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1517000331085,
+            "changeTime": 1517000331085,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1517001886659,
+            "changeTime": 1517001886659,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17142,
+            "modifiedTime": 1517001886656,
+            "changeTime": 1517001886656,
+            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4461,
+            "modifiedTime": 1517001886646,
+            "changeTime": 1517001886646,
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4457,
+            "modifiedTime": 1517001886643,
+            "changeTime": 1517001886643,
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4797,
+            "modifiedTime": 1517001886659,
+            "changeTime": 1517001886659,
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1517004346068,
+            "changeTime": 1517004346068,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1517004346074,
+            "changeTime": 1517004346074,
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1517004346070,
+            "changeTime": 1517004346070,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1259,
+            "modifiedTime": 1517004346069,
+            "changeTime": 1517004346069,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 696,
+            "modifiedTime": 1517004346069,
+            "changeTime": 1517004346069,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2464,
+            "modifiedTime": 1517004346069,
+            "changeTime": 1517004346069,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1466,
+            "modifiedTime": 1517004346070,
+            "changeTime": 1517004346070,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1517004346070,
+            "changeTime": 1517004346070,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 396928,
+            "modifiedTime": 1517004346071,
+            "changeTime": 1517004346071,
+            "contentHash": "4240045cf30725cb9980498fcc2ebf27a2f3c260",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 755043,
+            "modifiedTime": 1517004346072,
+            "changeTime": 1517004346072,
+            "contentHash": "ca31fc870259d8faaa12c2f431906f368ea92791",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14198,
+            "modifiedTime": 1517004346072,
+            "changeTime": 1517004346072,
+            "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 139643,
+            "modifiedTime": 1517004346073,
+            "changeTime": 1517004346073,
+            "contentHash": "997eed0c9cf25113c35b4213569b2323ad7d861e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 190004,
+            "modifiedTime": 1517004346074,
+            "changeTime": 1517004346074,
+            "contentHash": "d94996a1df21dc6283868fdf6c0f1e50358eafea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1517004346010,
+            "changeTime": 1517004346010,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517001886639,
+            "changeTime": 1517001886639,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1517001886639,
+            "changeTime": 1517001886639,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aashiru/Documents/sfdx-workspace/geolocation",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aashiru/Documents/sfdx-workspace/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1517000943688,
+            "changeTime": 1517000943688,
+            "contentHash": "c02b92b2a472650b8cd683457a0aabb4fd1e24bf",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
